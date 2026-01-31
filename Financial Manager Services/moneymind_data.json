@@ -1,0 +1,69 @@
+{
+    "income": [
+        {
+            "id": 1,
+            "date": "2026-01-31",
+            "source": "dividend",
+            "amount": 322.0,
+            "notes": ""
+        },
+        {
+            "id": 2,
+            "date": "2026-01-31",
+            "source": "SSI",
+            "amount": 200.0,
+            "notes": "monthly"
+        },
+        {
+            "id": 3,
+            "date": "2026-01-31",
+            "source": "Job",
+            "amount": 2000.0,
+            "notes": ""
+        },
+        {
+            "id": 4,
+            "date": "2026-01-31",
+            "source": "disability",
+            "amount": 200.0,
+            "notes": ""
+        }
+    ],
+    "expenses": [
+        {
+            "id": 1,
+            "date": "2026-01-31",
+            "category": "car payment",
+            "amount": 112.0,
+            "description": "ends 2030",
+            "is_tax_deductible": false
+        },
+        {
+            "id": 2,
+            "date": "2026-01-31",
+            "category": "food",
+            "amount": 10.0,
+            "description": "",
+            "is_tax_deductible": false
+        },
+        {
+            "id": 3,
+            "date": "2026-01-31",
+            "category": "home mortgage",
+            "amount": 2000.0,
+            "description": "until 2044",
+            "is_tax_deductible": false
+        },
+        {
+            "id": 4,
+            "date": "2026-01-31",
+            "category": "phone",
+            "amount": 100.0,
+            "description": "",
+            "is_tax_deductible": false
+        }
+    ],
+    "debts": [],
+    "assets": [],
+    "investments": []
+}
