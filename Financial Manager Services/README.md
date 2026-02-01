@@ -1,6 +1,6 @@
-# MoneyMind - Your Smart Financial Assistant
+# TMTlabs Financial Manager - Your Smart Financial Assistant
 
-MoneyMind is a personal finance management application built with Python, Tkinter, and Matplotlib. It's designed to help busy individuals track their income, expenses, debts, assets, and investments, providing a clear overview of their financial health through an intuitive graphical interface.
+Financial Manager is a personal finance management application built with Python, Tkinter, and Matplotlib. It's designed to help busy individuals track their income, expenses, debts, assets, and investments, providing a clear overview of their financial health through an intuitive graphical interface.
 
 ## Features
 
