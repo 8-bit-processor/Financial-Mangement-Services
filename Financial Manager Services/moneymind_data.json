@@ -1,0 +1,134 @@
+{
+    "income": [
+        {
+            "id": 1,
+            "date": "2026-01-31",
+            "source": "dividend",
+            "amount": 322.0,
+            "notes": ""
+        },
+        {
+            "id": 2,
+            "date": "2026-01-31",
+            "source": "SSI",
+            "amount": 2000.0,
+            "notes": "monthly"
+        },
+        {
+            "id": 3,
+            "date": "2026-08-31",
+            "source": "Job",
+            "amount": 2000.0,
+            "notes": ""
+        },
+        {
+            "id": 4,
+            "date": "2026-01-31",
+            "source": "disability",
+            "amount": 200.0,
+            "notes": ""
+        },
+        {
+            "id": 5,
+            "date": "2026-01-31",
+            "source": "windfalll",
+            "amount": 3000.0,
+            "notes": "monthy income"
+        }
+    ],
+    "expenses": [
+        {
+            "id": 1,
+            "date": "2026-01-31",
+            "category": "car payment",
+            "amount": 112.0,
+            "description": "ends 2030",
+            "is_tax_deductible": true
+        },
+        {
+            "id": 2,
+            "date": "2026-01-31",
+            "category": "food",
+            "amount": 10.0,
+            "description": "",
+            "is_tax_deductible": false
+        },
+        {
+            "id": 3,
+            "date": "2026-01-31",
+            "category": "home mortgage",
+            "amount": 2000.0,
+            "description": "until 2044",
+            "is_tax_deductible": false
+        },
+        {
+            "id": 4,
+            "date": "2026-01-31",
+            "category": "phone",
+            "amount": 100.0,
+            "description": "",
+            "is_tax_deductible": false
+        },
+        {
+            "id": 5,
+            "date": "2026-01-31",
+            "category": "State Tax",
+            "amount": 255.0,
+            "description": "state",
+            "is_tax_deductible": false
+        },
+        {
+            "id": 6,
+            "date": "2026-01-31",
+            "category": "Property Tax",
+            "amount": 3344.0,
+            "description": "car",
+            "is_tax_deductible": false
+        }
+    ],
+    "debts": [
+        {
+            "id": 1,
+            "name": "student loan",
+            "type": "loan",
+            "original_amount": 0.0,
+            "current_amount": 18000.0,
+            "interest_rate": 4.5,
+            "minimum_payment": 1300.0,
+            "due_date": "1/5/2028",
+            "notes": null
+        }
+    ],
+    "assets": [
+        {
+            "id": 1,
+            "name": "car",
+            "type": "",
+            "value": 20000.0,
+            "date_updated": "",
+            "notes": null
+        },
+        {
+            "id": 2,
+            "name": "home",
+            "type": "real estate",
+            "value": 300000.0,
+            "date_updated": "",
+            "notes": null
+        }
+    ],
+    "investments": [
+        {
+            "id": 1,
+            "asset_id": null,
+            "name": "intel",
+            "type": "stock",
+            "quantity": 220.0,
+            "purchase_price": 22.0,
+            "current_price": 44.0,
+            "date_purchased": "",
+            "last_updated": "",
+            "notes": null
+        }
+    ]
+}

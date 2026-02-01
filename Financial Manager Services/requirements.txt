@@ -1,0 +1,7 @@
+matplotlib>=3.0
+
+# tkinter is part of the standard library for most Python installations on Windows
+pandas>=1.5
+openpyxl>=3.0
+reportlab>=4.0
+Pillow>=9.0
